@@ -1,8 +1,8 @@
 // Image data array with sample images
 const images = [
-    { id: 1, src: 'https://postimg.cc/6TxMQXW4', title: 'Image 1', rating: 0 },
-    { id: 2, src: 'https://postimg.cc/7fH8f7Hz', title: 'Image 2', rating: 0 },
-    { id: 3, src: 'https://postimg.cc/vgnMtdk6', title: 'Image 3', rating: 0 }
+    { id: 1, src: 'https://i.postimg.cc/2jVM2kgG/Screenshot-2024-11-14-194315.png', title: 'Image 1', rating: 0 },
+    { id: 2, src: 'https://i.postimg.cc/BQDq7cRm/Screenshot-2024-11-14-194655.png', title: 'Image 2', rating: 0 },
+    { id: 3, src: 'https://i.postimg.cc/LXCXR9Vv/Screenshot-2024-11-14-195107.png', title: 'Image 3', rating: 0 }
 ];
 
 function renderImages() {
