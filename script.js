@@ -1,8 +1,8 @@
 // Image data array with sample images
 const images = [
-    { id: 1, src: 'https://via.placeholder.com/300', title: 'Image 1', rating: 0 },
-    { id: 2, src: 'https://via.placeholder.com/300', title: 'Image 2', rating: 0 },
-    { id: 3, src: 'https://via.placeholder.com/300', title: 'Image 3', rating: 0 }
+    { id: 1, src: 'https://postimg.cc/6TxMQXW4', title: 'Image 1', rating: 0 },
+    { id: 2, src: 'https://postimg.cc/7fH8f7Hz', title: 'Image 2', rating: 0 },
+    { id: 3, src: 'https://postimg.cc/vgnMtdk6', title: 'Image 3', rating: 0 }
 ];
 
 function renderImages() {
